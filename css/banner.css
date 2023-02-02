@@ -1,0 +1,34 @@
+#rightkutu
+{
+    position: fixed;
+    top: 250px;
+    left: 85%;
+    z-index: -1;
+}
+
+#kutuleft
+{
+    position:fixed;
+    top: 250px;
+    left: 3%;
+    z-index: -1;
+}
+
+
+#z
+{
+    z-index: -3;
+}
+
+#yuksek
+{
+    z-index: 2;
+}
+
+
+
+
+
+
+
+
